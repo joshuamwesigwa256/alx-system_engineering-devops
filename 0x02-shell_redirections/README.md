@@ -1,2 +1,2 @@
-#!/bin/bash
-my shell redirection tasks
+My shell redirection assignments
+quite interesting
