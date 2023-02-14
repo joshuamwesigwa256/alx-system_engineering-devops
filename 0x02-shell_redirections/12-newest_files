@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -tl | head -n 10
+tail -tl | ddhead -n 10
